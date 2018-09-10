@@ -39,4 +39,3 @@ E. Super Resolution
 
 F. preprocessomg
   1. One millisecond face alignment with an Ensemble of regression trees
-  2. CLAHE
