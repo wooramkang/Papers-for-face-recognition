@@ -21,7 +21,7 @@ B. Autoencoders
 C. Neural Networks compression
   1. Distilling the Knowledge in a Neural Network
   2. Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification
-  3. FITNETS: HINTS FOR THIN DEEP NEETS
+  3. Fitnets: hints for thin deep nets
   4. Born-Again Neural Network
   5. Deep Model Compression: Distilling Knowledge from Noisy Teachers
   6. Do Deep Convolutional nets really need to be deep and convolutional?
