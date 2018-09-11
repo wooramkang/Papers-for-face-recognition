@@ -1,6 +1,6 @@
 # Papers-for-face-recognition
 
-A. Object-detection
+A. design neural networks
   1. Going deeper with convolutions
   2. Rethinking the Inception Architecture for Computer Vision
   3. Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
@@ -8,6 +8,7 @@ A. Object-detection
   5. Deep Residual Learning for Image Recognition
   6. Residual Networks are Exponential Ensembles of Relatively Shallow Networks
   7. Speed/accuracy trade-offs for modern convolutional object detectors
+  8. Dropout: A simple way to prevent neural networks from overfitting
   
 B. Autoencoders
   1. Auto-Encoding Variational Bayes
